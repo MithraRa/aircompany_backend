@@ -13,7 +13,7 @@ Download and install https://www.postgresql.org/download/
 
 Open pg4admin and execute the sql file in the folder sql. Create the database at your pc.
 
-Create <h2>.env</h2> file in the root of the project 
+Create <strong>.env</strong> file in the root of the project 
 ```bash
 db_name = <your_name>
 db_pass = <your_password>
