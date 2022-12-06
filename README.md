@@ -30,5 +30,5 @@ secret_key = <your_key> // a string with random letters, digits and symbols. It'
 > go run main.go
 ```
 
-# Tools used
+# Used Tools
 Golang, PostgreSQL, Go-chi, go-jwt
